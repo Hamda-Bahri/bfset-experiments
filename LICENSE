@@ -1,0 +1,30 @@
+Copyright (c) 2025 Cognisoft and Hamda Ben Elbahri.
+All rights reserved.
+
+This repository contains original research code, experimental workflows,
+and implementation details related to the BFSET (Beard Face Set) dataset,
+developed by Cognisoft.
+
+The BFSET dataset, its name, structure, images, annotations, metadata,
+processing scripts, and any associated intellectual property are the exclusive
+property of Cognisoft. The dataset itself is NOT distributed through this
+repository and may not be accessed, used, copied, or redistributed without
+explicit written authorization from Cognisoft.
+
+No part of this repository — including source code, notebooks, algorithms,
+figures, experimental designs, or derivative work — may be reproduced, copied,
+modified, distributed, or used in any form or by any means without prior
+written permission from Cognisoft.
+
+Use of this repository is subject to the following restrictions:
+- No commercial use is permitted.
+- Redistribution or republication of the code is prohibited.
+- Derivative work based on the code is prohibited.
+- Referencing the BFSET dataset by name without authorization is prohibited.
+
+Unauthorized use is strictly prohibited and may result in legal or disciplinary
+action.
+
+For licensing inquiries, dataset access requests, or research agreements,
+contact:
+Cognisoft — contact@cognisoft.com
